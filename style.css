@@ -89,7 +89,7 @@ header {
 
 .parallax img{
     position: absolute;
-    top: 0;
+    top: -155px;;
     left: 0;
     width: 100%;
     pointer-events: none;
@@ -106,7 +106,7 @@ header {
 
 .sec{
     position: relative;
-    background: black;
+    background: #6555e7;
     padding: 30px 100px;
 }
 
